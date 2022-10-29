@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/drawable-v24/write_omg.xml" value="0.278" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/drawable/but_2p_back.xml" value="0.26" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/drawable/butbac1tik.xml" value="0.26" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/drawable/button_startt.xml" value="0.26" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/drawable/button_startt_click.xml" value="0.26" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/drawable/buttonforst.xml" value="0.26" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/drawable/style_butblack.xml" value="0.26" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/drawable/style_butblack60.xml" value="0.26" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/drawable/style_points.xml" value="0.264" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/drawable/style_points_right.xml" value="0.1135" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/drawable/style_points_wrong.xml" value="0.1" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/drawable/stylebut1.xml" value="0.26" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/drawable/stylebut2.xml" value="0.26" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/drawable/write_omg.xml" value="0.278" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/layout/activity_tiket1.xml" value="0.264" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/layout/congrat.xml" value="0.264" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/layout/congrlat.xml" value="0.1" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/layout/pdd_levels.xml" value="0.264" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/layout/universal.xml" value="0.2261650277896537" />
+        <entry key="..\:/Users/Y/AndroidStudioProjects/pdd2/app/src/main/res/layout/what_doing.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

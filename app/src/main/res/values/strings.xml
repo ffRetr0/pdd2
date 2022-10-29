@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Дром ПДД</string>
+    <string name="button_start">Начать решать</string>
+    <string name="tiket1">Билет 1</string>
+    <string name="tiket2">Билет 2</string>
+    <string name="tiket3">Билет 3</string>
+    <string name="bacck"><Назад></Назад></string>
+</resources>
